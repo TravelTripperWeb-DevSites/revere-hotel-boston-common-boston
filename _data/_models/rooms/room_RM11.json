@@ -1,0 +1,275 @@
+{
+  "name_localized": {
+    "en": "Deluxe Room, 1 King Bed, Refrigerator",
+    "es": "Deluxe Room, 1 King Bed, Refrigerator"
+  },
+  "short_description_localized": {
+    "en": "Deluxe Room, 1 King Bed, Refrigerator",
+    "es": "Deluxe Room, 1 King Bed, Refrigerator"
+  },
+  "description_localized": {
+    "en": "<strong>1 King Bed</strong><br />355-sq-foot (33-sq-meter) room, balcony with city views<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - 37-inch flat-screen TV with premium channels and pay movies<br /><b>Food & Drink</b> - Refrigerator, coffee/tea maker, and room service<br /><b>Sleep</b> - Hypo-allergenic bedding and blackout drapes/curtains <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, bathrobes, and free toiletries<br /><b>Practical</b> - Laptop-compatible safe, free weekday newspaper, and iron/ironing board; rollaway/extra beds and free cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping and climate-controlled heating and air conditioning<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;",
+    "es": "<strong>1 King Bed</strong><br />355-sq-foot (33-sq-meter) room, balcony with city views<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - 37-inch flat-screen TV with premium channels and pay movies<br /><b>Food & Drink</b> - Refrigerator, coffee/tea maker, and room service<br /><b>Sleep</b> - Hypo-allergenic bedding and blackout drapes/curtains <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, bathrobes, and free toiletries<br /><b>Practical</b> - Laptop-compatible safe, free weekday newspaper, and iron/ironing board; rollaway/extra beds and free cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping and climate-controlled heating and air conditioning<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Balcony"
+      },
+      {
+        "name": "Bathrobes"
+      },
+      {
+        "name": "Blackout drapes/curtains"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free cribs/infant beds"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Free weekday newspaper"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "In-room climate control (air conditioning)"
+      },
+      {
+        "name": "In-room climate control (heating)"
+      },
+      {
+        "name": "In-room safe (laptop compatible)"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Pay movies"
+      },
+      {
+        "name": "Phone"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Refrigerator (on request)"
+      },
+      {
+        "name": "Room service (limited hours)"
+      }
+    ],
+    "es": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Balcony"
+      },
+      {
+        "name": "Bathrobes"
+      },
+      {
+        "name": "Blackout drapes/curtains"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free cribs/infant beds"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Free weekday newspaper"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "In-room climate control (air conditioning)"
+      },
+      {
+        "name": "In-room climate control (heating)"
+      },
+      {
+        "name": "In-room safe (laptop compatible)"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Pay movies"
+      },
+      {
+        "name": "Phone"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Refrigerator (on request)"
+      },
+      {
+        "name": "Room service (limited hours)"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Deluxe Room, 1 King Bed, Refrigerator Image 1",
+      "file_name": "Deluxe Room, 1 King Bed, Refrigerator Image 1",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154503/68694_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154503",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 85992,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154503/large_68694_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154503/medium_68694_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154503/small_68694_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154503/xsmall_68694_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154503/thumb_68694_1_yankee_large.jpg",
+      "caption": "Image 1",
+      "alt": "Image 1"
+    },
+    {
+      "name": "Deluxe Room, 1 King Bed, Refrigerator Image 2",
+      "file_name": "Deluxe Room, 1 King Bed, Refrigerator Image 2",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154506/68697_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154506",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 67345,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154506/large_68697_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154506/medium_68697_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154506/small_68697_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154506/xsmall_68697_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154506/thumb_68697_1_yankee_large.jpg",
+      "caption": "Image 2",
+      "alt": "Image 2"
+    },
+    {
+      "name": "Deluxe Room, 1 King Bed, Refrigerator Image 3",
+      "file_name": "Deluxe Room, 1 King Bed, Refrigerator Image 3",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154509/68699_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154509",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 92925,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154509/large_68699_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154509/medium_68699_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154509/small_68699_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154509/xsmall_68699_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154509/thumb_68699_1_yankee_large.jpg",
+      "caption": "Image 3",
+      "alt": "Image 3"
+    },
+    {
+      "name": "Deluxe Room, 1 King Bed, Refrigerator Image 4",
+      "file_name": "Deluxe Room, 1 King Bed, Refrigerator Image 4",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154512/68701_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154512",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 66815,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154512/large_68701_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154512/medium_68701_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154512/small_68701_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154512/xsmall_68701_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154512/thumb_68701_1_yankee_large.jpg",
+      "caption": "Image 4",
+      "alt": "Image 4"
+    },
+    {
+      "name": "Deluxe Room, 1 King Bed, Refrigerator Image 5",
+      "file_name": "Deluxe Room, 1 King Bed, Refrigerator Image 5",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154515/68704_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154515",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 48260,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154515/large_68704_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154515/medium_68704_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154515/small_68704_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154515/xsmall_68704_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154515/thumb_68704_1_yankee_large.jpg",
+      "caption": "Image 5",
+      "alt": "Image 5"
+    }
+  ],
+  "reztrip_room_id": "RM11",
+  "order": 11
+}

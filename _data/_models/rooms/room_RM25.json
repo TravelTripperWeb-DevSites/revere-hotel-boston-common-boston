@@ -1,0 +1,275 @@
+{
+  "name_localized": {
+    "en": "Presidential Suite (Back Bay View)",
+    "es": "Presidential Suite (Back Bay View)"
+  },
+  "short_description_localized": {
+    "en": "Presidential Suite (Back Bay View)",
+    "es": "Presidential Suite (Back Bay View)"
+  },
+  "description_localized": {
+    "en": "<strong>1 King Bed</strong><br />1055-sq-foot (98-sq-meter) room, balcony with city views<br /><br /><b>Layout</b> - Bedroom, living room, and dining area<br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - 37-inch flat-screen TV with premium channels and pay movies<br /><b>Food & Drink</b> - Coffee/tea maker, room service, and refrigerator (on request)<br /><b>Sleep</b> - Hypo-allergenic bedding and blackout drapes/curtains <br /><b>Bathroom</b> - Private bathroom, shower, bathrobes, and free toiletries<br /><b>Practical</b> - Laptop-compatible safe, free weekday newspaper, and iron/ironing board; free cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping and climate-controlled heating and air conditioning<br /><b>Need to Know</b> - No rollaway/extra beds available<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;",
+    "es": "<strong>1 King Bed</strong><br />1055-sq-foot (98-sq-meter) room, balcony with city views<br /><br /><b>Layout</b> - Bedroom, living room, and dining area<br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - 37-inch flat-screen TV with premium channels and pay movies<br /><b>Food & Drink</b> - Coffee/tea maker, room service, and refrigerator (on request)<br /><b>Sleep</b> - Hypo-allergenic bedding and blackout drapes/curtains <br /><b>Bathroom</b> - Private bathroom, shower, bathrobes, and free toiletries<br /><b>Practical</b> - Laptop-compatible safe, free weekday newspaper, and iron/ironing board; free cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping and climate-controlled heating and air conditioning<br /><b>Need to Know</b> - No rollaway/extra beds available<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Balcony"
+      },
+      {
+        "name": "Bathrobes"
+      },
+      {
+        "name": "Blackout drapes/curtains"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free cribs/infant beds"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Free weekday newspaper"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "In-room climate control (air conditioning)"
+      },
+      {
+        "name": "In-room climate control (heating)"
+      },
+      {
+        "name": "In-room safe (laptop compatible)"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Pay movies"
+      },
+      {
+        "name": "Phone"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Refrigerator (on request)"
+      },
+      {
+        "name": "Room service (limited hours)"
+      }
+    ],
+    "es": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Balcony"
+      },
+      {
+        "name": "Bathrobes"
+      },
+      {
+        "name": "Blackout drapes/curtains"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free cribs/infant beds"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Free weekday newspaper"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "In-room climate control (air conditioning)"
+      },
+      {
+        "name": "In-room climate control (heating)"
+      },
+      {
+        "name": "In-room safe (laptop compatible)"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Pay movies"
+      },
+      {
+        "name": "Phone"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Refrigerator (on request)"
+      },
+      {
+        "name": "Room service (limited hours)"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Presidential Suite (Back Bay View) Image 1",
+      "file_name": "Presidential Suite (Back Bay View) Image 1",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154837/68849_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154837",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 58285,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154837/large_68849_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154837/medium_68849_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154837/small_68849_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154837/xsmall_68849_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154837/thumb_68849_1_yankee_large.jpg",
+      "caption": "Image 1",
+      "alt": "Image 1"
+    },
+    {
+      "name": "Presidential Suite (Back Bay View) Image 2",
+      "file_name": "Presidential Suite (Back Bay View) Image 2",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154840/68850_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154840",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 67631,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154840/large_68850_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154840/medium_68850_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154840/small_68850_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154840/xsmall_68850_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154840/thumb_68850_1_yankee_large.jpg",
+      "caption": "Image 2",
+      "alt": "Image 2"
+    },
+    {
+      "name": "Presidential Suite (Back Bay View) Image 3",
+      "file_name": "Presidential Suite (Back Bay View) Image 3",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154843/68851_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154843",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 97799,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154843/large_68851_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154843/medium_68851_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154843/small_68851_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154843/xsmall_68851_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154843/thumb_68851_1_yankee_large.jpg",
+      "caption": "Image 3",
+      "alt": "Image 3"
+    },
+    {
+      "name": "Presidential Suite (Back Bay View) Image 4",
+      "file_name": "Presidential Suite (Back Bay View) Image 4",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154846/68852_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154846",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 90611,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154846/large_68852_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154846/medium_68852_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154846/small_68852_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154846/xsmall_68852_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154846/thumb_68852_1_yankee_large.jpg",
+      "caption": "Image 4",
+      "alt": "Image 4"
+    },
+    {
+      "name": "Presidential Suite (Back Bay View) Image 5",
+      "file_name": "Presidential Suite (Back Bay View) Image 5",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154849/68853_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154849",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 56564,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154849/large_68853_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154849/medium_68853_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154849/small_68853_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154849/xsmall_68853_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154849/thumb_68853_1_yankee_large.jpg",
+      "caption": "Image 5",
+      "alt": "Image 5"
+    }
+  ],
+  "reztrip_room_id": "RM25",
+  "order": 25
+}

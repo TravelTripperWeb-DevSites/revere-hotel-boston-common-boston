@@ -1,0 +1,275 @@
+{
+  "name_localized": {
+    "en": "Junior Suite, 1 King Bed (Premiere Skyline)",
+    "es": "Junior Suite, 1 King Bed (Premiere Skyline)"
+  },
+  "short_description_localized": {
+    "en": "Junior Suite, 1 King Bed (Premiere Skyline)",
+    "es": "Junior Suite, 1 King Bed (Premiere Skyline)"
+  },
+  "description_localized": {
+    "en": "<strong>1 King Bed</strong><br />420-sq-foot (39-sq-meter) room, balcony with city views<br /><br /><b>Layout</b> - Bedroom and living room<br /> <b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - 37-inch flat-screen TV with premium channels and pay movies<br /><b>Food & Drink</b> - Coffee/tea maker, room service, and refrigerator (on request)<br /><b>Sleep</b> - Hypo-allergenic bedding and blackout drapes/curtains <br /><b>Bathroom</b> - Private bathroom, shower, bathrobes, and free toiletries<br /><b>Practical</b> - Sofa bed, laptop-compatible safe, and free weekday newspaper; free cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping and climate-controlled heating and air conditioning<br /><b>Need to Know</b> - No rollaway/extra beds available<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;",
+    "es": "<strong>1 King Bed</strong><br />420-sq-foot (39-sq-meter) room, balcony with city views<br /><br /><b>Layout</b> - Bedroom and living room<br /> <b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - 37-inch flat-screen TV with premium channels and pay movies<br /><b>Food & Drink</b> - Coffee/tea maker, room service, and refrigerator (on request)<br /><b>Sleep</b> - Hypo-allergenic bedding and blackout drapes/curtains <br /><b>Bathroom</b> - Private bathroom, shower, bathrobes, and free toiletries<br /><b>Practical</b> - Sofa bed, laptop-compatible safe, and free weekday newspaper; free cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping and climate-controlled heating and air conditioning<br /><b>Need to Know</b> - No rollaway/extra beds available<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Balcony"
+      },
+      {
+        "name": "Bathrobes"
+      },
+      {
+        "name": "Blackout drapes/curtains"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free cribs/infant beds"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Free weekday newspaper"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "In-room climate control (air conditioning)"
+      },
+      {
+        "name": "In-room climate control (heating)"
+      },
+      {
+        "name": "In-room safe (laptop compatible)"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Pay movies"
+      },
+      {
+        "name": "Phone"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Refrigerator (on request)"
+      },
+      {
+        "name": "Room service (limited hours)"
+      }
+    ],
+    "es": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Balcony"
+      },
+      {
+        "name": "Bathrobes"
+      },
+      {
+        "name": "Blackout drapes/curtains"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free cribs/infant beds"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Free weekday newspaper"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "In-room climate control (air conditioning)"
+      },
+      {
+        "name": "In-room climate control (heating)"
+      },
+      {
+        "name": "In-room safe (laptop compatible)"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Pay movies"
+      },
+      {
+        "name": "Phone"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Refrigerator (on request)"
+      },
+      {
+        "name": "Room service (limited hours)"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Junior Suite, 1 King Bed (Premiere Skyline) Image 1",
+      "file_name": "Junior Suite, 1 King Bed (Premiere Skyline) Image 1",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154652/68716_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154652",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 65605,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154652/large_68716_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154652/medium_68716_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154652/small_68716_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154652/xsmall_68716_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154652/thumb_68716_1_yankee_large.jpg",
+      "caption": "Image 1",
+      "alt": "Image 1"
+    },
+    {
+      "name": "Junior Suite, 1 King Bed (Premiere Skyline) Image 2",
+      "file_name": "Junior Suite, 1 King Bed (Premiere Skyline) Image 2",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154655/68718_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154655",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 81323,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154655/large_68718_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154655/medium_68718_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154655/small_68718_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154655/xsmall_68718_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154655/thumb_68718_1_yankee_large.jpg",
+      "caption": "Image 2",
+      "alt": "Image 2"
+    },
+    {
+      "name": "Junior Suite, 1 King Bed (Premiere Skyline) Image 3",
+      "file_name": "Junior Suite, 1 King Bed (Premiere Skyline) Image 3",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154658/68720_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154658",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 65968,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154658/large_68720_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154658/medium_68720_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154658/small_68720_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154658/xsmall_68720_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154658/thumb_68720_1_yankee_large.jpg",
+      "caption": "Image 3",
+      "alt": "Image 3"
+    },
+    {
+      "name": "Junior Suite, 1 King Bed (Premiere Skyline) Image 4",
+      "file_name": "Junior Suite, 1 King Bed (Premiere Skyline) Image 4",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154701/68722_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154701",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 52805,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154701/large_68722_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154701/medium_68722_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154701/small_68722_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154701/xsmall_68722_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154701/thumb_68722_1_yankee_large.jpg",
+      "caption": "Image 4",
+      "alt": "Image 4"
+    },
+    {
+      "name": "Junior Suite, 1 King Bed (Premiere Skyline) Image 5",
+      "file_name": "Junior Suite, 1 King Bed (Premiere Skyline) Image 5",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154704/68725_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-09-154704",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 56564,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154704/large_68725_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154704/medium_68725_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154704/small_68725_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154704/xsmall_68725_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_5_15/media/2018-04-09-154704/thumb_68725_1_yankee_large.jpg",
+      "caption": "Image 5",
+      "alt": "Image 5"
+    }
+  ],
+  "reztrip_room_id": "RM19",
+  "order": 19
+}
