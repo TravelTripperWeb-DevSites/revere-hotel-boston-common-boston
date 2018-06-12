@@ -1,0 +1,9 @@
+{
+  "color": {
+    "type": "color"
+  },
+  "multi_color": {
+    "type": "color",
+    "multiple": true
+  }
+}
